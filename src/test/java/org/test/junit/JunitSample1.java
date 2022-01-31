@@ -4,7 +4,9 @@ import org.junit.*;
 import org.testng.annotations.Test;
 
 public class JunitSample1 {
-
+                                                   /* This is Updated Code 
+                                                     To uploaded in Bose Branch  */
+                                                   
 @BeforeClass
 	public static void method1() {
 		System.out.println("Before class");
